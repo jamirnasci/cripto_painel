@@ -1,0 +1,19 @@
+{
+  "name": "cripto_painel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jamir",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "body-parser": "^1.19.2",
+    "cheerio": "^1.0.0-rc.10",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "handlebars": "^4.7.7"
+  }
+}
